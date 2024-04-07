@@ -71,16 +71,17 @@ endmodule
 ```
 
 ## RTL Schematic:
-1.Half Subractor:
+### 1.Half Subractor:
 ![image](https://github.com/RahulMR2005/Subtractor/assets/145525365/eaeb4e81-6794-4577-83bd-2d7e4c36e862)
-2.Full Subractor:
+
+### 2.Full Subractor:
 ![image](https://github.com/RahulMR2005/Subtractor/assets/145525365/943c7989-09c9-4d11-a4e0-c0fd85dabca5)
 
 
 ## Timing Diagram:
-1.Half Subractor:
+### 1.Half Subractor:
 ![image](https://github.com/RahulMR2005/Subtractor/assets/145525365/af37efb8-674a-49db-a668-672d1b0c2eb5)
-2.Full Subractor:
+### 2.Full Subractor:
 ![image](https://github.com/RahulMR2005/Subtractor/assets/145525365/85148c43-6ff3-4373-a970-b9d6db7db05e)
 
 
