@@ -1,5 +1,7 @@
-### Ex. No. 3
-### Date: 08.01.2024
+NAME: KISHORE.M
+
+REG NO: 2305002012
+
 # Implementation of half subtractor and full subtractor circuit using Verilog HDL
 ## Aim :
 To design and implement half subtractor and full subtractor circuit and verify its truth table.
